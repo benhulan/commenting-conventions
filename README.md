@@ -11,7 +11,7 @@ Comments are an essential part of programming. At very least, your comments need
 <script src="path.to.source.files"></script>
 
 <!-- image from [URL], by [PHOTOGRAPHER_NAME] -->
-<img src="path_to_source_of_image.jpg" alt="do not forget the alt tag" />
+<code><img src="path_to_source_of_image.jpg" alt="do not forget the alt tag" /></code>
 
 2. CSS comments 	/* This is the CSS comment syntax */
 
