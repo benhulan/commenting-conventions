@@ -6,22 +6,22 @@ I. The Basics
 A. Comments
 Comments are an essential part of programming. At very least, your comments need to help you read what you have written! But comments should be clear to anyone. Comments should also be used to give credit for others' work, such as linking source code you did not write and attributing credit to photographers and designers whose work you are incorporating.
 
-1. HTML comments
-2. `<!-- use these characters for single or multi-line HTML comments -->`<br />
-`<!-- this is the link for jQuery -->`
+1. HTML comments <br />
+`<!-- use these characters for single or multi-line HTML comments -->`<br />
+`<!-- this is the link for jQuery -->`<br />
 `<script src="path.to.source.files"></script>`
 
 `<!-- image from [URL], by [PHOTOGRAPHER_NAME] -->`<br />
 `<img src="path_to_source_of_image.jpg" alt="do not forget the alt tag" />`
 
-2. CSS comments
+2. CSS comments<br />
 `/* This is the CSS comment syntax */`
 
-3. JS comments
+3. JS comments<br />
 `// Use double forward-slash for single-line comments`<br />
 `/* Use this style for single OR multi-line comments */`
 
-4. PHP Comments follow the same rules as JS
+4. PHP Comments follow the same rules as JS<br />
 NOTE:  If you comment out a block of HTML containing PHP script, you need to add comments inside the PHP tags, like this:  
 `<?php /* script here */ ?>`
 
