@@ -10,7 +10,7 @@ Comments are an essential part of programming. At very least, your comments need
 `<!-- use these characters for single or multi-line HTML comments -->`<br />
 a. Here is a simple comment to indicate linking an external library:<br />
 `<!-- this is the link for jQuery -->`<br />
-`<script src="path.to.source.files"></script>`
+`<script src="path.to.source.files"></script>`<br />
 b. Here is an example giving credit to a photographer:<br />
 `<!-- image from [URL], by [PHOTOGRAPHER_NAME] -->`<br />
 `<img src="path_to_source_of_image.jpg" alt="do not forget the alt tag" />`
